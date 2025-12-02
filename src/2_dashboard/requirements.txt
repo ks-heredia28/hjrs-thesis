@@ -1,0 +1,17 @@
+streamlit
+pandas
+joblib
+numpy
+dotenv
+google
+matplotlib
+msoffcrypto-tool
+openpyxl
+pandas
+plotly
+rapidfuzz
+scikit-learn
+sentence-transformers
+torch
+gspread
+gspread-dataframe
